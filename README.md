@@ -2,9 +2,7 @@
  Basic customer segmentation project I made
 
 ## Rule Based Clasification
-A game company using some features of its customers new level-based customer definitions (persona) and these new customer definitions create segments according to these segments and create new.
-How much is the average number of customers coming to the company?
-Company wants to guess what he can earn. 
+
 
 ![Segmentation](https://101akademi.com/wp-content/uploads/2021/06/E-Ticaret-101-Akademi-Haziran-Kampi-1.png)
 
